@@ -1,1 +1,0 @@
-[{"eventTypeId" : 1, "eventType" : "Anomalia"}, {"eventTypeId" : 2, "eventType" : "Perdita Operativa"}, {"eventTypeId" : 3, "eventType" : "Reclamo"}, {"eventTypeId" : 4, "eventType" : "Segnalazione Compliance"}]
