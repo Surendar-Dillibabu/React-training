@@ -1,0 +1,42 @@
+.cntr {
+  text-align: center;
+}
+
+.add-content {
+  border-spacing: 10px;
+  border-collapse: separate;
+  width: 30%;
+}
+
+.bld {
+  font-weight: bold;
+}
+
+.list-content {  
+  border-collapse: separate;
+  width: 100%;
+}
+
+.pd-top {
+  padding-top: 10px;
+}
+
+.mrg-rgt {
+  margin-right: 16px;
+}
+
+.width-48 {
+  width: 48%;
+}
+
+.width-47 {
+  width:47%;
+}
+
+.flt-lft {
+  float: left;
+}
+
+.flt-rgt {
+  float: right;
+}
