@@ -1,0 +1,10 @@
+jackson-annotations-2.9.5.jar
+jackson-core-2.9.5.jar
+jackson-core-asl-1.9.13-1.9.13-0-0.jar
+jackson-databind-2.9.5.jar
+jersey-client-1.19.4.jar
+jersey-core-1.19.4.jar
+jersey-json-1.19.4.jar
+jersey-server-1.19.4.jar
+jersey-servlet-1.19.4.jar
+jsr311-api-1.1.1.jar
